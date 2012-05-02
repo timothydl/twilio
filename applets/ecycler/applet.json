@@ -1,0 +1,8 @@
+{
+	"name" : "ecycler",
+	"sms_name" : "ecycler",
+	"voice_title" : "Retrieve ecycler Recycle Count",
+	"sms_title" : "Retrieve ecycler Recycle Count",
+	"description" : "Returns the material count and reads it back.",
+	"type" : ["sms", "voice"]
+}
