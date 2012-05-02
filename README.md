@@ -1,12 +1,14 @@
 # ecycler for OpenVBX
 
-This plugin reads ...
+This plugin allows you to retrieve recycle counts from the ecycler database based on material type and phone number. You'll need to request an [ecycler API ID][1]
+
+[1]: http://ecycler.com/contact.php
 
 ## Installation
 
-[Download][1] the plugin and extract to /plugins
+[Download][2] the plugin and extract to /plugins
 
-[1]: https://github.com/timothydl/twilio/
+[2]: https://github.com/timothydl/twilio/
 
 ## Usage
 
